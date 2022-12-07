@@ -10,6 +10,7 @@ http://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-GetBookings
 ## Tools and Technologies
 * Java 11
 * REST Assured 
+* Cucumber 
 * JUnit
 * Maven
 
